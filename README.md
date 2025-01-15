@@ -105,6 +105,5 @@ This repository contains three key projects as follows.
     title={{MMSegmentation}: OpenMMLab Semantic Segmentation Toolbox and Benchmark},
     author={MMSegmentation Contributors},
     howpublished = {\url{https://github.com/open-mmlab/mmsegmentation}},
-    year={2020}
-}
+    year={2020}}
 
